@@ -1,0 +1,102 @@
+Trong soan thao MS Word, muon trinh bay van ban dang cot, ta thuc hien:
+a.Insert - Column
+b.View - Column
+c.Format - Column
+d.Table - Column
+Aa
+Trong soan thao MS Word, cong dung cua to hop Ctrl+O la:
+a.Mo mot ho so moi
+b.Dong ho so dang mo
+c.Mo mot ho so da co
+d.Luu ho so vao dia
+Cc
+Khi dang soan thao van ban MS Word, muon phuc hoi thao tac vua thuc hien thi bam to hop phim:
+a.Ctrl + Z
+b.Ctrl + X
+c.Ctrl + V
+d.Ctrl + Y
+Aa
+Trong khi lam viec voi MS Word, to hop phim nao cho phep chon tat ca van ban dang soan thao:
+a.Ctrl + A
+b.Alt + A
+c.Alt + F
+d.Ctrl + F
+Aa
+Trong soan thao van ban MS Word, cong dung cua to hop phim Ctrl + H la:
+a.Tao tep van ban moi
+b.Chuc nang thay the trong soan thao
+c.Dinh dang chu hoa
+d.Luu tep van ban vao dia
+Bb
+Trong che do tao bang(table) cua MS Word, muon tach 1 o thanh nhieu o ta thuc hien:
+a.Table -> Cells
+b.Table -> Merge Cells
+c.Tools -> Split Cells
+d.Table -> Split Cells
+Dd
+Trong MS Word, cong dung cua to hop phim Ctrl + S la:
+a.Xoa tep van ban
+b.Chen ki hieu dac biet
+c.Luu tep van ban vao dia
+d.Tao tep van ban moi
+Cc
+Khi lam viec voi MS Word xong, muon thoat khoi, ta thuc hien:
+a.View -> Exit
+b.Edit -> Exit
+c.Window -> Exit
+d.File -> Exit
+Dd
+Trong soan thao van ban Word, muon tat danh dau chon khoi van ban (boi den), ta thuc hien:
+a.Bam phim Enter
+b.Bam phim Space
+c.Bam phim mui ten di chuyen
+d.Bam phim tab
+Cc
+Tren man hinh Word, tai dong co chua cac hinh: to giay trang, dia mem, may in... duoc goi la:
+a.Thanh cong cu dinh dang
+b.Thanh cong cu chuan
+c.Thanh cong cu ve
+d.Thanh cong cu bang va duong vien
+Bb
+Trong soan thao Word, de chen tieu de trang (dau trang va chan trang), ta thuc hien:
+a.Insert -> Header and Footer
+b.Tools -> Header and Footer
+c.View -> Header and Footer
+d.Format -> Header and Footer
+Aa
+Trong MS Word, de soan thao mot cong thuc toan hoc phuc tap ta thuong dung cong cu:
+a.Microsoft Equation
+b.Ogranization Art
+c.Ogranization Chart
+d.Word Art
+Aa
+Trong MS Word, de sao chep mot doan van ban vao Clipboard, ta danh dau doan van, sau do:
+a.Edit -> Copy
+b.Ctrl + C
+c.Ca 2 cau a,b deu dung
+c.Ca 2 cau a,b deu sai
+Cc
+Trong soan thao van ban Word, de tao bang (table), ta thuc hien:
+a.Tools -> Insert Table
+b.Insert -> Insert Table
+c.Format -> Insert Table
+d.Table -> Insert Table
+Dd
+Trong MS Word, cong dung cua to hop phim Ctrl + F la:
+a.Tao tep van ban moi
+b.Luu tep van ban vao dia
+c.Chuc nang tim kiem trong soan thao
+d.Dinh dang trang
+Cc
+Trong soan thao Word, muon dinh dang lai trang giay in, ta thuc hien:
+a.File -> Properties
+b.File -> Page Setup
+c.File -> Print
+d.File -> Print Preview
+Bb
+Trong soan thao Word, muon chuyen doi giua hai che do go la go chen va go de, ta bam phim:
+a.Insert
+b.Delete
+c.Backspace
+d.Enter
+Aa
